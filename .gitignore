@@ -1,0 +1,4 @@
+mlruns/
+lazypredict_results.csv
+output.txt
+__pycache__/
